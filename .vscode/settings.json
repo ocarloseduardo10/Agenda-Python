@@ -1,0 +1,22 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "none",
+    "explorer.compactFolders": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 18,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportUnknownMemberType": "none",
+    "reportUnknownArgumentType": "none",
+    "reportUnknownVariableType": "none",
+    "reportUnknownLambdaType": "none",
+    "reportUnknownParameterType": "none"
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "cSpell.enabled": true
+
+}
